@@ -18,7 +18,7 @@ class Array2D {
         display(arr);
 
         for (int[] a : arr) {
-            Arrays.sort(a);
+            Arrays.sort(a); 
         }
 
         display(arr);
