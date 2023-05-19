@@ -25,3 +25,5 @@ class Array2D {
 
     }
 }
+
+// to push use git push -f origin main
